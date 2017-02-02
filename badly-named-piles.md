@@ -2,7 +2,7 @@
 * Badly named SW components
 
 ## Problem
-People can't find internally developed solutions becuse of poor naming of SW components.
+People can't find internally developed solutions because of poor naming of SW components.
 
 ## Context
 * Reusable Software component(s) are available internally but users can't easily find these.
